@@ -18,6 +18,7 @@ The dashboard includes a variety of visualizations tailored to attrition analysi
 - Employee Surveys
 - Exit Interviews
 - Performance Reviews
-[HR-Analytics.pdf](https://github.com/sausau02/HR-Analytics/files/14060314/HR-Analytics.pdf)
+![HR-Analytics](https://github.com/sausau02/HR-Analytics/assets/157574244/c7888e5f-1a64-4f8d-879a-3343e69b6f0d)
+
 
   
